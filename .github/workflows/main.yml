@@ -23,7 +23,7 @@ jobs:
         rm -r .git
         rm -r .github
         cd ..
-        mv visualization/ -f .github_pages/
+        mv tian-qin/ -f .github_pages/
         cd .github_pages
         git status
         git add .
