@@ -23,6 +23,9 @@ jobs:
         rm -r .git
         rm -r .github
         cd ..
+        cd .github_pages
+        rm -r tian-qin
+        cd ..
         mv tian-qin/ -f .github_pages/
         cd .github_pages
         git status
