@@ -3,7 +3,7 @@ name: CI for wztlink1013.github.io
 on:
   push:
     branches:    
-      - master
+      - gh-pages
     paths:
       - 'README.md'
   pull_request:
