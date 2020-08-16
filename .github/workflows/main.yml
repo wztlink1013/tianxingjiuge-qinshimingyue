@@ -17,8 +17,8 @@ jobs:
       env:
         Github_Token: ${{ secrets.TOKEN_GITHUBAPI }}
       run: | 
-        git clone https://github.com/wztlink1013/tian-qin tian-qin
-        git clone https://github.com/wztlink1013/wztlink1013.github.io .github_pages
+        git clone https://${Github_Token}@github.com/wztlink1013/tian-qin tian-qin
+        git clone https://${Github_Token}@github.com/wztlink1013/wztlink1013.github.io .github_pages
         cd tian-qin
         rm -r .git
         rm -r .github
