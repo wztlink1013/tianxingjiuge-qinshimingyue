@@ -4,7 +4,9 @@
 
 ## 展示地址
 
-https://www.wztlink1013.com/tianxingjiuge-qinshimingyue/index.html
+https://tianqin.wztlink1013.com/
+
+https://tianqin.pages.dev/
 
 
 
