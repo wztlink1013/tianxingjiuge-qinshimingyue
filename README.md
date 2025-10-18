@@ -88,7 +88,6 @@ tianxingjiuge-qinshimingyue/
 ## 🌐 在线演示
 
 - **主站**: https://tianqin.wztlink1013.com/
-- **备用站**: https://tianqin.pages.dev/
 
 ## 🎨 设计理念
 
